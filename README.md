@@ -1,8 +1,6 @@
 ## How is it going? Welcome to my confused world!
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 Estou atualmente aprendendo e estudando sobre Desenvolvimento Frontend!
 
 <div align="center">
   <a href="https://github.com/giulianocampos">
