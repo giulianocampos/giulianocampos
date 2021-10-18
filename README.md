@@ -1,4 +1,4 @@
-## How is it going? Welcome to my confused world!
+## How is it going?
 
 🌱 Estou atualmente aprendendo e estudando sobre Desenvolvimento Frontend!
 
