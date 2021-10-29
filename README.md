@@ -1,6 +1,6 @@
 ## How is it going?
 
-🌱 Estou atualmente aprendendo e estudando sobre Desenvolvimento Frontend!
+Estou atualmente focado na área de Desenvolvimento Frontend!
 
 <div align="center">
   <a href="https://github.com/giulianocampos">
