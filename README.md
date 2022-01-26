@@ -1,7 +1,3 @@
-## How is it going?
-
-Estou atualmente focado na área de Desenvolvimento Frontend!
-
 <div align="center">
   <a href="https://github.com/giulianocampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giulianocampos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
