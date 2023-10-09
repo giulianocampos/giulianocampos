@@ -1,7 +1,7 @@
 <div>
   <h3>Sobre mim</h3>
   <p>
-    Olá! Sou Giuliano, graduado em Sistemas de Informação pela UMESP. Atuo há 2 anos como desenvolvedor Web e sigo evoluindo nas seguintes tecnologias: 
+    Olá! Sou Giuliano, graduado em Sistemas de Informação pela UMESP. Atuo há 2 anos como Desenvolvedor Web e sigo evoluindo nas seguintes tecnologias: 
   </p>
   <p>
     Angular 2+ (HTML, CSS e TypeScript), RXJS, Design Systems (Material Design, por exemplo), Controle de Versionamento (GitHub e/ou GitLab) e projetos em Metodologias Ágeis.
