@@ -6,6 +6,10 @@
   <p>
     Angular 2+ (HTML, CSS e TypeScript), RXJS, Design Systems (Material Design, por exemplo), Controle de Versionamento (GitHub e/ou GitLab) e projetos em Metodologias Ágeis.
   </p>
+  
+  <p>
+    "With great power comes great responsibility"
+  </p>
 </div>
 
 <hr/>
