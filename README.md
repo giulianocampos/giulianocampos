@@ -4,7 +4,7 @@
     Olá! Sou Giuliano, graduado em Sistemas de Informação pela UMESP. Atuo há 2 anos como Desenvolvedor Web e sigo evoluindo nas seguintes tecnologias: 
   </p>
   <p>
-    Angular 2+ (HTML, CSS e TypeScript), RXJS, Design Systems (Material Design, por exemplo), Controle de Versionamento (GitHub e/ou GitLab) e projetos em Metodologias Ágeis.
+    Angular 2+ (HTML, SCSS e TypeScript), RXJS, Design Systems (Material Design, por exemplo), Controle de Versionamento (GitHub e/ou GitLab) e projetos em Metodologias Ágeis. Além de ter contato diário com estas tecnlogias, tenho focado em melhorar conhecimentos de como manter a sustentabilidade do código, atráves de boas práticas de desenvolvimento. Aplico este ponto citado em implementações de novas funcionalidades e manutenções de código que venho realizando.
   </p>
   
   <p>
